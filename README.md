@@ -1,39 +1,35 @@
-# Alumni Management System 🎓
+# Alumni Portal
 
-A dynamic web application designed to streamline alumni engagement, event coordination, and community interaction.
-
----
-
-##  Overview
-
-The **Alumni Management System** empowers institutions to manage alumni data, events, forums, job listings, and communications in one cohesive platform. It’s ideal for schools or organizations seeking an intuitive interface for building meaningful connections and keeping alumni engaged.
+Welcome to the **Alumni Portal**, a dynamic and intuitive web application designed to connect, inform, and empower former students. Whether you're showcasing past achievements, sharing job opportunities, or fostering community collaborations, this platform has you covered.
 
 ---
 
 ##  Key Features
 
-- **User Authentication**: Secure login, registration, and account management.
-- **Event & Career Management**: Alumni can explore upcoming events, job opportunities, and contribute to the community.
-- **Discussion Forums**: Build engagement through conversations—alumni can post, comment, and interact.
-- **Gallery Showcase**: Display memorable pictures and event highlights.
-- **Alumni Profiles**: View and search registered alumni details.
-- **Administrator Panel**: Manage users, forums, events, and career postings with ease.
+- **Alumni Directory** – Search and browse alumni profiles efficiently with filters and keyword search.
+- **Networking Hub** – Engage via a community forum, comment on activities, and build meaningful connections.
+- **Opportunities Corner** – Access the latest job postings, alumni career updates, and events.
+- **Gallery Showcase** – Relive memories with an integrated photo gallery.
+- **Secure User Management** – Handles registration, login, account management, and contact messaging.
+
+---
+
+##  Why This Matters
+
+This project bridges the gap between graduates and their alma mater, offering an accessible and vibrant community experience. It encourages continued learning, mentorship, and professional growth—all in one centralized platform.
 
 ---
 
 ##  Tech Stack
 
-| Frontend         | Backend         | Database   |
-|------------------|------------------|------------|
-| HTML, CSS, JavaScript | PHP             | MySQL      |
-
-Uses a clean PHP-driven MVC-like structure with JavaScript enhancements for seamless interactivity.
+- **Frontend**: HTML, CSS, JavaScript (clean, responsive interface)
+- **Backend**: PHP powering dynamic features like user sessions and community forums
+- **Database**: MySQL for fast, reliable data storage and retrieval
 
 ---
 
 ##  Getting Started
 
-1. **Clone the repository**
+1. Clone this repository:
    ```bash
    git clone https://github.com/DerickMuluka/alumni.git
-   cd alumni
